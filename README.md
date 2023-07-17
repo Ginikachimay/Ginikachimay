@@ -1,3 +1,4 @@
+
 # 👋 Hi, I’m Ginikachi May
 A data analyst passionate about turning data into meaningful insights by conducting accurate analysis and representing them with the right visualizations, to help companies make data-driven decisions.
 
